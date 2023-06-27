@@ -1,0 +1,5 @@
+1 - Console uygulamasi ac
+2 - Web servisi bu konsol uygulamasina bagla
+3 - Uygulamadan "GetCurrency" servisinden veriyi cek
+4 - "GetCurrency" servisinden gelen veriyi veri tabanina kaydet
+5 - EF Code First kullanılacak
